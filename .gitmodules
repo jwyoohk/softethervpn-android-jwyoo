@@ -1,0 +1,12 @@
+[submodule "app/src/main/cpp/SoftEtherVPN"]
+	path = app/src/main/cpp/SoftEtherVPN
+	url = https://github.com/lfasmpao/SoftEtherVPN
+[submodule "app/src/main/cpp/ncurses"]
+	path = app/src/main/cpp/ncurses
+	url = https://github.com/lfasmpao/android_external_libncurses
+[submodule "app/src/main/cpp/openssl"]
+	path = app/src/main/cpp/openssl
+	url = https://github.com/schwabe/platform_external_openssl
+[submodule "app/src/main/cpp/iconv"]
+	path = app/src/main/cpp/iconv
+	url = https://github.com/lfasmpao/iconv

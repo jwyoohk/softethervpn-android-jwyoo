@@ -48,4 +48,5 @@ target_compile_definitions(readline PUBLIC
         )
 target_include_directories(readline PRIVATE
         "${CMAKE_CURRENT_SOURCE_DIR}/readline"
+        "${CMAKE_CURRENT_SOURCE_DIR}/include/readline"
         )

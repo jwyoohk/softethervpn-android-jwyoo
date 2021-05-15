@@ -252,7 +252,7 @@
 #define HAVE_WINT_T 1
 
 /* Define if you have <langinfo.h> and nl_langinfo(CODESET). */
-#define HAVE_LANGINFO_CODESET 1
+#define HAVE_LANGINFO_CODESET 0
 
 /* Define if you have <linux/audit.h> and it defines AUDIT_USER_TTY */
 #define HAVE_DECL_AUDIT_USER_TTY 0

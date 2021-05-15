@@ -13,3 +13,6 @@
 [submodule "app/src/main/cpp/SoftEtherVPN"]
 	path = app/src/main/cpp/SoftEtherVPN
 	url = https://github.com/lfasmpao/SoftEtherVPN
+[submodule "app/src/main/cpp/libsodium"]
+	path = app/src/main/cpp/libsodium
+	url = https://github.com/lfasmpao/libsodium

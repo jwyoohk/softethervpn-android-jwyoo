@@ -154,6 +154,7 @@ target_compile_options(ncurses PRIVATE -std=gnu89)
 target_compile_definitions(ncurses PRIVATE
         -DHAVE_CONFIG_H -D_XOPEN_SOURCE -D_POSIX_C_SOURCE -DNDEBUG)
 target_include_directories(ncurses PRIVATE
+        "${CMAKE_CURRENT_SOURCE_DIR}/include/ncurses"
         "${CMAKE_CURRENT_SOURCE_DIR}/ncurses/include"
         "${CMAKE_CURRENT_SOURCE_DIR}/ncurses/ncurses"
         )
